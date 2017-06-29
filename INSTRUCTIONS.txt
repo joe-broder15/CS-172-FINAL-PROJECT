@@ -1,0 +1,9 @@
+APPLICATION INSTRUCTIONS
+
+1. To run The application, use mango.exe in the source_code folder
+
+2. You can test the application with any directory of images, but
+I recommend using the TEST_MANGA folder that I included, as it
+will provide the intended application experience.
+
+3. If you use the TEST_MANGA directory, just know that manga is read from right, not left to right like American comics.
