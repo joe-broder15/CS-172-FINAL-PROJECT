@@ -7,3 +7,5 @@ I recommend using the TEST_MANGA folder that I included, as it
 will provide the intended application experience.
 
 3. If you use the TEST_MANGA directory, just know that manga is read from right, not left to right like American comics.
+
+4. The many .dll files are so you can run this application without having to install the Qt SDK (it has been deployed for windows)
