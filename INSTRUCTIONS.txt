@@ -1,11 +1,13 @@
 APPLICATION INSTRUCTIONS
 
-1. To run The application, use mango.exe in the source_code folder
+1. To run The application, use mango.exe in the deployed_app folder
 
-2. You can test the application with any directory of images, but
+2. The source code can be found in the source_code folder. the file mango.pro is essentially a makefile for the Qt SDK, and mango.pro.user is the project’s settings for the Qt SDK.
+
+3. You can test the application with any directory of images, but
 I recommend using the TEST_MANGA folder that I included, as it
 will provide the intended application experience.
 
-3. If you use the TEST_MANGA directory, just know that manga is read from right, not left to right like American comics.
+4. If you use the TEST_MANGA directory, just know that manga is read from right, not left to right like American comics.
 
-4. The many .dll files are so you can run this application without having to install the Qt SDK (it has been deployed for windows)
+5. The many .dll files are so you can run this application without having to install the Qt SDK (it has been deployed for windows)
